@@ -49,7 +49,6 @@ def callingWebp(path):
 fo_list = commadn_dir(out_ls)
 #now in pwd
 
-os.chdir("..")
 for b in fo_list:
     loop_cd([b])
     print("back to raw" + rapwd[0])
