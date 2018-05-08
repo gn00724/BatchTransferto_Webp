@@ -9,7 +9,7 @@
 python3(or python) ~/main.py
 
 2.因webpgen.jar限制，需先指定WebpGenerator資料夾中位置
-/Users/rd/Desktop/LanLive/WebpGenerator/WebpGenerator
+~/WebpGenerator
 
 3.查看各項目內output
 
